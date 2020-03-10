@@ -1,9 +1,9 @@
 # GLIFRP
 Live demo can be found here:
-<a href="http://ec2-52-38-0-246.us-west-2.compute.amazonaws.com:4567/index.html">Demo</a>
+<a href="http://ec2-35-166-174-199.us-west-2.compute.amazonaws.com:4567/index.html">Demo</a>
 
 Design doument can be found here:
-<a href="https://teovoinea.github.io/2XB3DesignDoc">Doc</a>
+<a href="https://teovoinea.github.io/v3/2XB3DesignDoc">Doc</a>
 
 
 Scrum board can be found here: 
@@ -33,6 +33,11 @@ To use this sign up for a Trello account
 	grunt server
 	```
 	
+___________________________________________________________________________________________
+# Images
+
+![alt tag](https://raw.githubusercontent.com/teovoinea/GLIFRP/master/GLIFRP.png?token=AHxextkSPxcdws0MSVTnbPST6fBJwKSTks5XHmigwA%3D%3D)
+![alt tag](https://raw.githubusercontent.com/teovoinea/GLIFRP/master/glifrp_mobile.png?token=AHxexsbhLkd5KMaIUbrlPVkkycpSzJeBks5XHmjHwA%3D%3D)
 ___________________________________________________________________________________________
 # "Major" update history
 * Apr 08 - R - Finished JavaDocs & testing for all classes and methods written by Roberto
@@ -70,34 +75,3 @@ ________________________________________________________________________________
 * Feb 28 - P - Added Spark, update README
 * Feb 27 - N - Added location data to the database
 * Feb 27 - N - Added the housing database
-
-
-#Images
-![alt tag](https://raw.githubusercontent.com/teovoinea/GLIFRP/master/GLIFRP.png?token=AHxextkSPxcdws0MSVTnbPST6fBJwKSTks5XHmigwA%3D%3D)
-![alt tag](https://raw.githubusercontent.com/teovoinea/GLIFRP/master/glifrp_mobile.png?token=AHxexsbhLkd5KMaIUbrlPVkkycpSzJeBks5XHmjHwA%3D%3D)
-_________________________________________________________________________________
-# Upcoming version codenames
-* Caterpillar
-* Dragon
-* Electric Catfish
-* Fossa
-* Guppy
-* Hoatzin
-* Iguana
-* Javelina
-* Kakapo
-* Lynx
-* Molly
-* Nautilus
-* Okapi
-* Pademelon
-* Quokka
-* Ragdoll
-* Sponge
-* Toucan
-* Umbrellabird
-* Vaquita
-* Wombat
-* Xenopus
-* Yak
-* Zorse
