@@ -1,23 +1,26 @@
 # GLIFRP
+The Good Life Index For Real People (GLIFRP) will let users know key information about the cities that they are interested in living in. It will inform users on things such as the housing prices, crime, unemployment, and educational institutions in those areas.
+
 Live demo can be found here:
 <a href="http://ec2-35-166-174-199.us-west-2.compute.amazonaws.com:4567/index.html">Demo</a>
 
 Design doument can be found here:
 <a href="https://teovoinea.github.io/v3/2XB3DesignDoc">Doc</a>
 
-
 Scrum board can be found here: 
 <a href="https://trello.com/b/YEKUDQie">GLFRP Scrum Board</a>
 To use this sign up for a Trello account
 
 # To run the server
-1. ```git clone https://github.com/teovoinea/glifrp```
-2. ```cd glifrp```
-3. ```bower install```
-4. ```cd final```
-5. ```rm -r public/```
-6. ```cp -r ../Backend/src/main/resources/public/ .```
-7. ```java -jar final.jar```
+```
+git clone https://github.com/pgunasekara/glifrp
+cd glifrp
+bower install
+cd final
+rm -r public/
+cp -r ../Backend/src/main/resources/public/ .
+java -jar final.jar
+```
 
 # To run/test the backend
 1. <a href="https://eclipse.org/downloads/"> **Install Eclipse (Or Apache Maven)** </a>
